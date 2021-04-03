@@ -14,7 +14,7 @@ from sklearn import linear_model
 # Connect to the database
 connection = pymysql.connect(host='localhost',
 user='root',
-password='FLZX3QCysyhl9t!!',
+password='xxx',
 db='auto',
 charset='utf8mb4',
 cursorclass=pymysql.cursors.DictCursor)
