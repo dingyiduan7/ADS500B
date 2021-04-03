@@ -4,7 +4,7 @@ library(RMySQL)
 library(ggplot2)
 
 # Set the connection parameters
-connection <- dbConnect(dbDriver("MySQL"), user = "root", password = "FLZX3QCysyhl9t!!", dbname = "auto")
+connection <- dbConnect(dbDriver("MySQL"), user = "root", password = "xxx", dbname = "auto")
 
 
 # Check the connection
